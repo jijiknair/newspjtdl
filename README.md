@@ -1,5 +1,5 @@
 # newspjtdl
-(i).News Article Categorization Model
+(i)News Article Categorization Model
 Introduction:
 This project aims to develop a model that can categorize news articles into their respective categories. 
 The dataset consists of news articles along with their corresponding categories. 
@@ -27,9 +27,9 @@ Visulaize numbers of sections of data
 (4)Real Time prediction of result using an unlabeled news article
 
 
-(ii).News Article Categorization Model:
+(ii)News Article Categorization Model:
 Code for Detecting if the news article is related to Palestine and categorize it under a new subcategory called "FreePalestine".
 
 
-(iii).Abstractcreation:
+(iii)Abstract creation:
 Utilizes sumy library to generate a summary of a given article text using the LexRank algorithm.
