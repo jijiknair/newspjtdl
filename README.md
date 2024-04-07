@@ -1,6 +1,6 @@
 # newspjtdl
 (i)News Article Categorization Model
-Introduction:
+
 This project aims to develop a model that can categorize news articles into their respective categories. 
 The dataset consists of news articles along with their corresponding categories. 
 The goal is to preprocess the data, build a machine learning or deep learning model, and evaluate its performance.
