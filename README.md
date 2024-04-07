@@ -19,3 +19,11 @@ Visulaize numbers of sections of data
 (d)NLP analysis of data
 (3)Choose an appropriate model and predicted the result.
 (4)Real Time prediction of result using an unlabeled news article
+
+
+2.News Article Categorization Model
+#Code for Detecting if the news article is related to Palestine and categorize it under a new subcategory called "FreePalestine".
+
+
+3.abstractcreation
+Utilizes sumy library to generate a summary of a given article text using the LexRank algorithm.
