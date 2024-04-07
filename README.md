@@ -25,5 +25,5 @@ Visulaize numbers of sections of data
 Code for Detecting if the news article is related to Palestine and categorize it under a new subcategory called "FreePalestine".
 
 
-3.abstractcreation:
+3.Abstractcreation:
 Utilizes sumy library to generate a summary of a given article text using the LexRank algorithm.
