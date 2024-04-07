@@ -21,9 +21,9 @@ Visulaize numbers of sections of data
 (4)Real Time prediction of result using an unlabeled news article
 
 
-2.News Article Categorization Model
-#Code for Detecting if the news article is related to Palestine and categorize it under a new subcategory called "FreePalestine".
+2.News Article Categorization Model:
+Code for Detecting if the news article is related to Palestine and categorize it under a new subcategory called "FreePalestine".
 
 
-3.abstractcreation
+3.abstractcreation:
 Utilizes sumy library to generate a summary of a given article text using the LexRank algorithm.
