@@ -5,6 +5,8 @@ This project aims to develop a model that can categorize news articles into thei
 The dataset consists of news articles along with their corresponding categories. 
 The goal is to preprocess the data, build a machine learning or deep learning model, and evaluate its performance.
 1.loading the json training data and preprocessing it
+
+
 2.DATA ANALYSIS
 (a)Display basic information about the DataFrame
 (b)	Handling Null Values:
