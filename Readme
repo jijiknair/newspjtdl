@@ -11,7 +11,7 @@ The goal is to preprocess the data, build a machine learning or deep learning mo
 •	Fill null values with a specific value using the fillna() method.
 •	Impute null values based on mean, median, or mode of the column.
 (c)Word count generation
-#A word cloud is a data visualization technique commonly used to represent the frequency of words in a text document. 
+A word cloud is a data visualization technique commonly used to represent the frequency of words in a text document. 
 (d)Data Visualisation
 Visulaize numbers of sections of data
 (c)Url length analysis
